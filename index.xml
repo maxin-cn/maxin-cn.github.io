@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xin Ma&#39;s homepage</title>
+    <title>Xin Ma</title>
     <link>https://maxin-cn.github.io/</link>
       <atom:link href="https://maxin-cn.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Xin Ma&#39;s homepage</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <description>Xin Ma</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Xin Ma&#39;s homepage</title>
+      <title>Xin Ma</title>
       <link>https://maxin-cn.github.io/</link>
     </image>
     
@@ -400,7 +400,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-857134269&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-278694135&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -410,7 +410,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-857134269&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-278694135&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
