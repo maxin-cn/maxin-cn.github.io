@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Xin Ma</title>
+    <title>Posts | Xin Ma 马鑫</title>
     <link>https://maxin-cn.github.io/post/</link>
       <atom:link href="https://maxin-cn.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
@@ -196,7 +196,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-568472139&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-491235867&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -206,7 +206,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-568472139&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-491235867&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
