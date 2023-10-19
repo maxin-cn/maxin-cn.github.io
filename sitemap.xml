@@ -10,6 +10,30 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://maxin-cn.github.io/tag/diffusion-models/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://maxin-cn.github.io/project/lavie/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://maxin-cn.github.io/project/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://maxin-cn.github.io/tags/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://maxin-cn.github.io/tag/text-to-video-generation/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://maxin-cn.github.io/tag/video-generation/</loc>
+    <lastmod>2023-09-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://maxin-cn.github.io/publication-type/2/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -23,10 +47,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://maxin-cn.github.io/tag/source-themes/</loc>
-    <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/tags/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -122,19 +142,11 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/tag/demo/</loc>
+    <loc>https://maxin-cn.github.io/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/project/example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/project/</loc>
+    <loc>https://maxin-cn.github.io/project-example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
