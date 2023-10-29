@@ -5,12 +5,20 @@
     <link>https://maxin-cn.github.io/project/</link>
       <atom:link href="https://maxin-cn.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maxin-cn.github.io/media/icon_hub20bbea5694ca3a59339a693ae8ca887_287138_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
       <link>https://maxin-cn.github.io/project/</link>
     </image>
+    
+    <item>
+      <title>LAVITA - A Transformer-based Video Generation Framework</title>
+      <link>https://maxin-cn.github.io/project/lavita/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/project/lavita/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LaVie - A High-Quality Video Generation Framework</title>
