@@ -33,10 +33,10 @@
     </item>
     
     <item>
-      <title>LAVITA - A Transformer-based Video Generation Framework</title>
-      <link>https://maxin-cn.github.io/project/lavita/</link>
+      <title>Latte - A Transformer-based Video Diffusion Generation Framework</title>
+      <link>https://maxin-cn.github.io/project/latte/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/project/lavita/</guid>
+      <guid>https://maxin-cn.github.io/project/latte/</guid>
       <description></description>
     </item>
     
@@ -439,7 +439,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-138265497&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-749231586&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -449,7 +449,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-138265497&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-749231586&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
