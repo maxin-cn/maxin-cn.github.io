@@ -72,29 +72,6 @@ Supplementary notes can be added here, including [code, math, and images](https:
     </item>
     
     <item>
-      <title>Style-Based Attentive Network for Real-World Face Hallucination</title>
-      <link>https://maxin-cn.github.io/publication/conference-paper/prcv_2022/</link>
-      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/conference-paper/prcv_2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Compressing Models with Few Samples: Mimicking then Replacing</title>
       <link>https://maxin-cn.github.io/publication/conference-paper/cvpr_2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
@@ -439,7 +416,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-275613849&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-897453216&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -449,7 +426,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-275613849&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-897453216&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -944,6 +921,14 @@ $$&lt;/p&gt;
       <link>https://maxin-cn.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://maxin-cn.github.io/publication/conference-paper/prcv_2022/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/publication/conference-paper/prcv_2022/</guid>
       <description></description>
     </item>
     
