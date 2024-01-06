@@ -58,11 +58,15 @@
     <lastmod>2022-10-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/conference-paper/cvpr_2022/</loc>
-    <lastmod>2022-05-01T00:00:00+00:00</lastmod>
+    <loc>https://maxin-cn.github.io/publication-type/paper-conference/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication-type/paper-conference/</loc>
+    <loc>https://maxin-cn.github.io/publication/conference-paper/prcv_2022/</loc>
+    <lastmod>2022-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://maxin-cn.github.io/publication/conference-paper/cvpr_2022/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -147,9 +151,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://maxin-cn.github.io/admin/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/publication/conference-paper/prcv_2022/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
