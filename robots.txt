@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://maxin-cn.github.io/sitemap.xml
