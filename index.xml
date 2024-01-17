@@ -7,7 +7,7 @@
     <description>Xin Ma</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://maxin-cn.github.io/media/icon_hub20bbea5694ca3a59339a693ae8ca887_287138_512x512_fill_lanczos_center_3.png</url>
+      <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xin Ma</title>
       <link>https://maxin-cn.github.io/</link>
     </image>
@@ -29,6 +29,50 @@
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation</title>
+      <link>https://maxin-cn.github.io/publication/conference-paper/iclr_wang_2024/</link>
+      <pubDate>Tue, 16 Jan 2024 00:55:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/publication/conference-paper/iclr_wang_2024/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction</title>
+      <link>https://maxin-cn.github.io/publication/conference-paper/iclr_chen_2024/</link>
+      <pubDate>Tue, 16 Jan 2024 00:36:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/publication/conference-paper/iclr_chen_2024/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
@@ -439,7 +483,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-547962813&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-713629854&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -449,7 +493,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-547962813&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-713629854&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
