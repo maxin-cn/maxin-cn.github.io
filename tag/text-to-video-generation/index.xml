@@ -5,12 +5,20 @@
     <link>https://maxin-cn.github.io/tag/text-to-video-generation/</link>
       <atom:link href="https://maxin-cn.github.io/tag/text-to-video-generation/index.xml" rel="self" type="application/rss+xml" />
     <description>Text-to-video Generation</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Text-to-video Generation</title>
       <link>https://maxin-cn.github.io/tag/text-to-video-generation/</link>
     </image>
+    
+    <item>
+      <title>Latte - A Transformer-based Video Diffusion Generation Framework</title>
+      <link>https://maxin-cn.github.io/project/latte/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/project/latte/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>LaVie - A High-Quality Video Generation Framework</title>
