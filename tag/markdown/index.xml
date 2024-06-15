@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Markdown | Xin Ma</title>
-    <link>https://example.com/tag/markdown/</link>
-      <atom:link href="https://example.com/tag/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maxin-cn.github.io/tag/markdown/</link>
+      <atom:link href="https://maxin-cn.github.io/tag/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Markdown</title>
-      <link>https://example.com/tag/markdown/</link>
+      <link>https://maxin-cn.github.io/tag/markdown/</link>
     </image>
     
     <item>
       <title>🎉 2023-10-27 Easily create your own simple yet highly customizable blog</title>
-      <link>https://example.com/post-bak/get-started/</link>
+      <link>https://maxin-cn.github.io/post-bak/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post-bak/get-started/</guid>
+      <guid>https://maxin-cn.github.io/post-bak/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -97,9 +97,9 @@
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>https://example.com/post-bak/second-brain/</link>
+      <link>https://maxin-cn.github.io/post-bak/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post-bak/second-brain/</guid>
+      <guid>https://maxin-cn.github.io/post-bak/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -207,9 +207,9 @@
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>https://example.com/post-bak/data-visualization/</link>
+      <link>https://maxin-cn.github.io/post-bak/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post-bak/data-visualization/</guid>
+      <guid>https://maxin-cn.github.io/post-bak/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -220,7 +220,7 @@
 
 
 
-&lt;div id=&#34;chart-235718946&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-158934276&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -230,7 +230,7 @@
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-235718946&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-158934276&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -408,9 +408,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>https://example.com/post-bak/teach-courses/</link>
+      <link>https://maxin-cn.github.io/post-bak/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post-bak/teach-courses/</guid>
+      <guid>https://maxin-cn.github.io/post-bak/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -457,7 +457,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/post-bak/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://maxin-cn.github.io/post-bak/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -514,9 +514,9 @@ data.head()
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>https://example.com/post-bak/project-management/</link>
+      <link>https://maxin-cn.github.io/post-bak/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post-bak/project-management/</guid>
+      <guid>https://maxin-cn.github.io/post-bak/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;

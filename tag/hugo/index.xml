@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo | Xin Ma</title>
-    <link>https://example.com/tag/hugo/</link>
-      <atom:link href="https://example.com/tag/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maxin-cn.github.io/tag/hugo/</link>
+      <atom:link href="https://maxin-cn.github.io/tag/hugo/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 25 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Hugo</title>
-      <link>https://example.com/tag/hugo/</link>
+      <link>https://maxin-cn.github.io/tag/hugo/</link>
     </image>
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>https://example.com/post-bak/data-visualization/</link>
+      <link>https://maxin-cn.github.io/post-bak/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post-bak/data-visualization/</guid>
+      <guid>https://maxin-cn.github.io/post-bak/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -27,7 +27,7 @@
 
 
 
-&lt;div id=&#34;chart-235718946&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-158934276&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -37,7 +37,7 @@
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-235718946&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-158934276&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -215,9 +215,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>https://example.com/post-bak/teach-courses/</link>
+      <link>https://maxin-cn.github.io/post-bak/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post-bak/teach-courses/</guid>
+      <guid>https://maxin-cn.github.io/post-bak/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -264,7 +264,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/post-bak/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://maxin-cn.github.io/post-bak/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;

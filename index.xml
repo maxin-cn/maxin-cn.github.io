@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xin Ma</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maxin-cn.github.io/</link>
+      <atom:link href="https://maxin-cn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Xin Ma</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Xin Ma</title>
-      <link>https://example.com/</link>
+      <link>https://maxin-cn.github.io/</link>
     </image>
     
     <item>
       <title>Activity</title>
-      <link>https://example.com/activity/</link>
+      <link>https://maxin-cn.github.io/activity/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/activity/</guid>
+      <guid>https://maxin-cn.github.io/activity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://maxin-cn.github.io/contact/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/contact/</guid>
+      <guid>https://maxin-cn.github.io/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Patent</title>
-      <link>https://example.com/patent/</link>
+      <link>https://maxin-cn.github.io/patent/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/patent/</guid>
+      <guid>https://maxin-cn.github.io/patent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Application and expansion of DiT architecture in video generation models</title>
-      <link>https://example.com/event/latte/</link>
+      <link>https://maxin-cn.github.io/event/latte/</link>
       <pubDate>Fri, 14 Jun 2024 10:00:00 +0000</pubDate>
-      <guid>https://example.com/event/latte/</guid>
+      <guid>https://maxin-cn.github.io/event/latte/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -58,17 +58,17 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>Cinemo - An image animation Framework</title>
-      <link>https://example.com/project/cinemo/</link>
+      <link>https://maxin-cn.github.io/project/cinemo/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/cinemo/</guid>
+      <guid>https://maxin-cn.github.io/project/cinemo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation</title>
-      <link>https://example.com/publication/conference-paper/iclr_wang_2024/</link>
+      <link>https://maxin-cn.github.io/publication/conference-paper/iclr_wang_2024/</link>
       <pubDate>Tue, 16 Jan 2024 00:55:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/iclr_wang_2024/</guid>
+      <guid>https://maxin-cn.github.io/publication/conference-paper/iclr_wang_2024/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -88,9 +88,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction</title>
-      <link>https://example.com/publication/conference-paper/iclr_chen_2024/</link>
+      <link>https://maxin-cn.github.io/publication/conference-paper/iclr_chen_2024/</link>
       <pubDate>Tue, 16 Jan 2024 00:36:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/iclr_chen_2024/</guid>
+      <guid>https://maxin-cn.github.io/publication/conference-paper/iclr_chen_2024/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -110,9 +110,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>Latte: Latent Diffusion Transformer for Video Generation</title>
-      <link>https://example.com/publication/preprint/latte/</link>
+      <link>https://maxin-cn.github.io/publication/preprint/latte/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/latte/</guid>
+      <guid>https://maxin-cn.github.io/publication/preprint/latte/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -132,9 +132,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>🎉 2023-10-27 Easily create your own simple yet highly customizable blog</title>
-      <link>https://example.com/post-bak/get-started/</link>
+      <link>https://maxin-cn.github.io/post-bak/get-started/</link>
       <pubDate>Fri, 27 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post-bak/get-started/</guid>
+      <guid>https://maxin-cn.github.io/post-bak/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
 
@@ -215,9 +215,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>https://example.com/post-bak/second-brain/</link>
+      <link>https://maxin-cn.github.io/post-bak/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post-bak/second-brain/</guid>
+      <guid>https://maxin-cn.github.io/post-bak/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
@@ -325,9 +325,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>📈 Communicate your results effectively with the best data visualizations</title>
-      <link>https://example.com/post-bak/data-visualization/</link>
+      <link>https://maxin-cn.github.io/post-bak/data-visualization/</link>
       <pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post-bak/data-visualization/</guid>
+      <guid>https://maxin-cn.github.io/post-bak/data-visualization/</guid>
       <description>&lt;p&gt;Hugo Blox is designed to give technical content creators a seamless experience. You can focus on the content and Hugo Blox handles the rest.&lt;/p&gt;
 &lt;p&gt;Use popular tools such as Plotly, Mermaid, and data frames.&lt;/p&gt;
 &lt;h2 id=&#34;charts&#34;&gt;Charts&lt;/h2&gt;
@@ -338,7 +338,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-235718946&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-158934276&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -348,7 +348,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-235718946&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-158934276&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -526,9 +526,9 @@ Crash --&gt; [*]
     
     <item>
       <title>👩🏼‍🏫 Teach academic courses</title>
-      <link>https://example.com/post-bak/teach-courses/</link>
+      <link>https://maxin-cn.github.io/post-bak/teach-courses/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post-bak/teach-courses/</guid>
+      <guid>https://maxin-cn.github.io/post-bak/teach-courses/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://hugoblox.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Blox Builder&lt;/a&gt; is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Embed videos, podcasts, code, LaTeX math, and even test students!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Hugo Blox.&lt;/p&gt;
@@ -575,7 +575,7 @@ Crash --&gt; [*]
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/post-bak/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://maxin-cn.github.io/post-bak/teach-courses/ambient-piano.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;test-students&#34;&gt;Test students&lt;/h2&gt;
@@ -632,17 +632,17 @@ data.head()
     
     <item>
       <title>Experience</title>
-      <link>https://example.com/experience/</link>
+      <link>https://maxin-cn.github.io/experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/experience/</guid>
+      <guid>https://maxin-cn.github.io/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>✅ Manage your projects</title>
-      <link>https://example.com/post-bak/project-management/</link>
+      <link>https://maxin-cn.github.io/post-bak/project-management/</link>
       <pubDate>Mon, 23 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post-bak/project-management/</guid>
+      <guid>https://maxin-cn.github.io/post-bak/project-management/</guid>
       <description>&lt;p&gt;Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!&lt;/p&gt;
 &lt;h2 id=&#34;ideation&#34;&gt;Ideation&lt;/h2&gt;
 &lt;p&gt;Hugo Blox supports a Markdown extension for mindmaps.&lt;/p&gt;
@@ -715,25 +715,25 @@ Parallel 4   :         des6, after des4, 1d
     
     <item>
       <title>Latte - A Transformer-based Video Diffusion Generation Framework</title>
-      <link>https://example.com/project/latte/</link>
+      <link>https://maxin-cn.github.io/project/latte/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/latte/</guid>
+      <guid>https://maxin-cn.github.io/project/latte/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LaVie - A High-Quality Video Generation Framework</title>
-      <link>https://example.com/project/lavie/</link>
+      <link>https://maxin-cn.github.io/project/lavie/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/project/lavie/</guid>
+      <guid>https://maxin-cn.github.io/project/lavie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models</title>
-      <link>https://example.com/publication/preprint/lavie/</link>
+      <link>https://maxin-cn.github.io/publication/preprint/lavie/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/lavie/</guid>
+      <guid>https://maxin-cn.github.io/publication/preprint/lavie/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -753,9 +753,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Uncertainty-Aware Image Inpainting with Adaptive Feedback Network</title>
-      <link>https://example.com/publication/journal-article/eswa_2023/</link>
+      <link>https://maxin-cn.github.io/publication/journal-article/eswa_2023/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/eswa_2023/</guid>
+      <guid>https://maxin-cn.github.io/publication/journal-article/eswa_2023/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -776,9 +776,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>LEO: Generative Latent Image Animator for Human Video Synthesis</title>
-      <link>https://example.com/publication/preprint/leo/</link>
+      <link>https://maxin-cn.github.io/publication/preprint/leo/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/preprint/leo/</guid>
+      <guid>https://maxin-cn.github.io/publication/preprint/leo/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -798,9 +798,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Style-Based Attentive Network for Real-World Face Hallucination</title>
-      <link>https://example.com/publication/conference-paper/prcv_2022/</link>
+      <link>https://maxin-cn.github.io/publication/conference-paper/prcv_2022/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/prcv_2022/</guid>
+      <guid>https://maxin-cn.github.io/publication/conference-paper/prcv_2022/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -821,9 +821,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Compressing Models with Few Samples: Mimicking then Replacing</title>
-      <link>https://example.com/publication/conference-paper/cvpr_2022/</link>
+      <link>https://maxin-cn.github.io/publication/conference-paper/cvpr_2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/cvpr_2022/</guid>
+      <guid>https://maxin-cn.github.io/publication/conference-paper/cvpr_2022/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -843,9 +843,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Contrastive attention network with dense field estimation for face completion</title>
-      <link>https://example.com/publication/journal-article/pr_2022/</link>
+      <link>https://maxin-cn.github.io/publication/journal-article/pr_2022/</link>
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/pr_2022/</guid>
+      <guid>https://maxin-cn.github.io/publication/journal-article/pr_2022/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -866,9 +866,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Partial NIR-VIS heterogeneous face recognition with automatic saliency search</title>
-      <link>https://example.com/publication/journal-article/tifs_partial_2021/</link>
+      <link>https://maxin-cn.github.io/publication/journal-article/tifs_partial_2021/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/tifs_partial_2021/</guid>
+      <guid>https://maxin-cn.github.io/publication/journal-article/tifs_partial_2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -889,9 +889,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Free-form image inpainting via contrastive attention network</title>
-      <link>https://example.com/publication/conference-paper/icpr_ma_2021/</link>
+      <link>https://maxin-cn.github.io/publication/conference-paper/icpr_ma_2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/icpr_ma_2021/</guid>
+      <guid>https://maxin-cn.github.io/publication/conference-paper/icpr_ma_2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -912,9 +912,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Unsupervised Contrastive Photo-to-Caricature Translation based on Auto-distortion</title>
-      <link>https://example.com/publication/conference-paper/icpr_ding_2021/</link>
+      <link>https://maxin-cn.github.io/publication/conference-paper/icpr_ding_2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/conference-paper/icpr_ding_2021/</guid>
+      <guid>https://maxin-cn.github.io/publication/conference-paper/icpr_ding_2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -935,9 +935,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Inconsistency-aware wavelet dual-branch network for face forgery detection</title>
-      <link>https://example.com/publication/journal-article/tbiom_2021/</link>
+      <link>https://maxin-cn.github.io/publication/journal-article/tbiom_2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/tbiom_2021/</guid>
+      <guid>https://maxin-cn.github.io/publication/journal-article/tbiom_2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -958,9 +958,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>FA-GAN: face augmentation GAN for deformation-invariant face recognition</title>
-      <link>https://example.com/publication/journal-article/tifs_fagan_2021/</link>
+      <link>https://maxin-cn.github.io/publication/journal-article/tifs_fagan_2021/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://example.com/publication/journal-article/tifs_fagan_2021/</guid>
+      <guid>https://maxin-cn.github.io/publication/journal-article/tifs_fagan_2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

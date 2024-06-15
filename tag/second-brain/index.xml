@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Second Brain | Xin Ma</title>
-    <link>https://example.com/tag/second-brain/</link>
-      <atom:link href="https://example.com/tag/second-brain/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://maxin-cn.github.io/tag/second-brain/</link>
+      <atom:link href="https://maxin-cn.github.io/tag/second-brain/index.xml" rel="self" type="application/rss+xml" />
     <description>Second Brain</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Second Brain</title>
-      <link>https://example.com/tag/second-brain/</link>
+      <link>https://maxin-cn.github.io/tag/second-brain/</link>
     </image>
     
     <item>
       <title>🧠 Sharpen your thinking with a second brain</title>
-      <link>https://example.com/post-bak/second-brain/</link>
+      <link>https://maxin-cn.github.io/post-bak/second-brain/</link>
       <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post-bak/second-brain/</guid>
+      <guid>https://maxin-cn.github.io/post-bak/second-brain/</guid>
       <description>&lt;p&gt;Create a personal knowledge base and share your knowledge with your peers.&lt;/p&gt;
 &lt;p&gt;Hugo Blox web framework empowers you with one of the most flexible note-taking capabilities out there.&lt;/p&gt;
 &lt;p&gt;Create a powerful knowledge base that works on top of a local folder of plain text Markdown files.&lt;/p&gt;
