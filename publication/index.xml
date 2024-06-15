@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | Xin Ma</title>
-    <link>https://maxin-cn.github.io/publication/</link>
-      <atom:link href="https://maxin-cn.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jan 2024 00:55:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jan 2024 00:55:00 +0000</lastBuildDate>
     <image>
-      <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://maxin-cn.github.io/publication/</link>
+      <link>https://example.com/publication/</link>
     </image>
     
     <item>
       <title>InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation</title>
-      <link>https://maxin-cn.github.io/publication/conference-paper/iclr_wang_2024/</link>
+      <link>https://example.com/publication/conference-paper/iclr_wang_2024/</link>
       <pubDate>Tue, 16 Jan 2024 00:55:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/conference-paper/iclr_wang_2024/</guid>
+      <guid>https://example.com/publication/conference-paper/iclr_wang_2024/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -36,9 +36,9 @@
     
     <item>
       <title>SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction</title>
-      <link>https://maxin-cn.github.io/publication/conference-paper/iclr_chen_2024/</link>
+      <link>https://example.com/publication/conference-paper/iclr_chen_2024/</link>
       <pubDate>Tue, 16 Jan 2024 00:36:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/conference-paper/iclr_chen_2024/</guid>
+      <guid>https://example.com/publication/conference-paper/iclr_chen_2024/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -58,9 +58,9 @@
     
     <item>
       <title>Latte: Latent Diffusion Transformer for Video Generation</title>
-      <link>https://maxin-cn.github.io/publication/preprint/latte/</link>
+      <link>https://example.com/publication/preprint/latte/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/preprint/latte/</guid>
+      <guid>https://example.com/publication/preprint/latte/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -80,9 +80,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>LaVie: High-Quality Video Generation with Cascaded Latent Diffusion Models</title>
-      <link>https://maxin-cn.github.io/publication/preprint/lavie/</link>
+      <link>https://example.com/publication/preprint/lavie/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/preprint/lavie/</guid>
+      <guid>https://example.com/publication/preprint/lavie/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -102,9 +102,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Uncertainty-Aware Image Inpainting with Adaptive Feedback Network</title>
-      <link>https://maxin-cn.github.io/publication/journal-article/eswa_2023/</link>
+      <link>https://example.com/publication/journal-article/eswa_2023/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/journal-article/eswa_2023/</guid>
+      <guid>https://example.com/publication/journal-article/eswa_2023/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -125,9 +125,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>LEO: Generative Latent Image Animator for Human Video Synthesis</title>
-      <link>https://maxin-cn.github.io/publication/preprint/leo/</link>
+      <link>https://example.com/publication/preprint/leo/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/preprint/leo/</guid>
+      <guid>https://example.com/publication/preprint/leo/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -147,9 +147,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Style-Based Attentive Network for Real-World Face Hallucination</title>
-      <link>https://maxin-cn.github.io/publication/conference-paper/prcv_2022/</link>
+      <link>https://example.com/publication/conference-paper/prcv_2022/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/conference-paper/prcv_2022/</guid>
+      <guid>https://example.com/publication/conference-paper/prcv_2022/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -170,9 +170,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Compressing Models with Few Samples: Mimicking then Replacing</title>
-      <link>https://maxin-cn.github.io/publication/conference-paper/cvpr_2022/</link>
+      <link>https://example.com/publication/conference-paper/cvpr_2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/conference-paper/cvpr_2022/</guid>
+      <guid>https://example.com/publication/conference-paper/cvpr_2022/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -192,9 +192,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Contrastive attention network with dense field estimation for face completion</title>
-      <link>https://maxin-cn.github.io/publication/journal-article/pr_2022/</link>
+      <link>https://example.com/publication/journal-article/pr_2022/</link>
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/journal-article/pr_2022/</guid>
+      <guid>https://example.com/publication/journal-article/pr_2022/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -215,9 +215,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Partial NIR-VIS heterogeneous face recognition with automatic saliency search</title>
-      <link>https://maxin-cn.github.io/publication/journal-article/tifs_partial_2021/</link>
+      <link>https://example.com/publication/journal-article/tifs_partial_2021/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/journal-article/tifs_partial_2021/</guid>
+      <guid>https://example.com/publication/journal-article/tifs_partial_2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -238,9 +238,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Free-form image inpainting via contrastive attention network</title>
-      <link>https://maxin-cn.github.io/publication/conference-paper/icpr_ma_2021/</link>
+      <link>https://example.com/publication/conference-paper/icpr_ma_2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/conference-paper/icpr_ma_2021/</guid>
+      <guid>https://example.com/publication/conference-paper/icpr_ma_2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -261,9 +261,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Unsupervised Contrastive Photo-to-Caricature Translation based on Auto-distortion</title>
-      <link>https://maxin-cn.github.io/publication/conference-paper/icpr_ding_2021/</link>
+      <link>https://example.com/publication/conference-paper/icpr_ding_2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/conference-paper/icpr_ding_2021/</guid>
+      <guid>https://example.com/publication/conference-paper/icpr_ding_2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -284,9 +284,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>Inconsistency-aware wavelet dual-branch network for face forgery detection</title>
-      <link>https://maxin-cn.github.io/publication/journal-article/tbiom_2021/</link>
+      <link>https://example.com/publication/journal-article/tbiom_2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/journal-article/tbiom_2021/</guid>
+      <guid>https://example.com/publication/journal-article/tbiom_2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -307,9 +307,9 @@ Supplementary notes can be added here, including [code, math, and images](https:
     
     <item>
       <title>FA-GAN: face augmentation GAN for deformation-invariant face recognition</title>
-      <link>https://maxin-cn.github.io/publication/journal-article/tifs_fagan_2021/</link>
+      <link>https://example.com/publication/journal-article/tifs_fagan_2021/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/journal-article/tifs_fagan_2021/</guid>
+      <guid>https://example.com/publication/journal-article/tifs_fagan_2021/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.

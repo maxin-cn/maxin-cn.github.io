@@ -2,187 +2,199 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maxin-cn.github.io/talk/application-and-expansion-of-dit-architecture-in-video-generation-models/</loc>
+    <loc>https://example.com/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/activity/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/contact/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/patent/</loc>
+    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/event/latte/</loc>
     <lastmod>2024-06-14T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/event/</loc>
+    <loc>https://example.com/event/</loc>
     <lastmod>2024-06-14T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/project/cinemo/</loc>
+    <loc>https://example.com/project/cinemo/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/tag/diffusion/</loc>
+    <loc>https://example.com/tag/diffusion/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/tag/image-animation/</loc>
+    <loc>https://example.com/tag/image-animation/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/project/</loc>
+    <loc>https://example.com/project/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/conference-paper/iclr_wang_2024/</loc>
+    <loc>https://example.com/publication/conference-paper/iclr_wang_2024/</loc>
     <lastmod>2024-01-16T00:55:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication-type/paper-conference/</loc>
+    <loc>https://example.com/publication-type/paper-conference/</loc>
     <lastmod>2024-01-16T00:55:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication_types/</loc>
+    <loc>https://example.com/publication_types/</loc>
     <lastmod>2024-01-16T00:55:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/</loc>
+    <loc>https://example.com/publication/</loc>
     <lastmod>2024-01-16T00:55:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/conference-paper/iclr_chen_2024/</loc>
+    <loc>https://example.com/publication/conference-paper/iclr_chen_2024/</loc>
     <lastmod>2024-01-16T00:36:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication-type/article/</loc>
+    <loc>https://example.com/publication-type/article/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/preprint/latte/</loc>
+    <loc>https://example.com/publication/preprint/latte/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/tag/source-themes/</loc>
+    <loc>https://example.com/tag/source-themes/</loc>
     <lastmod>2024-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/project/latte/</loc>
+    <loc>https://example.com/post-bak/get-started/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/academic/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post-bak/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/hugo-blox/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/markdown/</loc>
+    <lastmod>2023-10-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/second-brain/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post-bak/second-brain/</loc>
+    <lastmod>2023-10-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post-bak/data-visualization/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/hugo/</loc>
+    <lastmod>2023-10-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post-bak/teach-courses/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/experience/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/hugo-blox-builder/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post-bak/project-management/</loc>
+    <lastmod>2023-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/project/latte/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/tag/text-to-video-generation/</loc>
+    <loc>https://example.com/tag/text-to-video-generation/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/tag/transformers/</loc>
+    <loc>https://example.com/tag/transformers/</loc>
     <lastmod>2023-09-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/project/lavie/</loc>
+    <loc>https://example.com/project/lavie/</loc>
     <lastmod>2023-09-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/preprint/lavie/</loc>
+    <loc>https://example.com/publication/preprint/lavie/</loc>
     <lastmod>2023-09-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication-type/article-journal/</loc>
+    <loc>https://example.com/publication-type/article-journal/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/journal-article/eswa_2023/</loc>
+    <loc>https://example.com/publication/journal-article/eswa_2023/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/preprint/leo/</loc>
+    <loc>https://example.com/publication/preprint/leo/</loc>
     <lastmod>2023-05-06T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/</loc>
-    <lastmod>2022-10-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/publication/conference-paper/prcv_2022/</loc>
+    <loc>https://example.com/publication/conference-paper/prcv_2022/</loc>
     <lastmod>2022-07-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/conference-paper/cvpr_2022/</loc>
+    <loc>https://example.com/publication/conference-paper/cvpr_2022/</loc>
     <lastmod>2022-05-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/journal-article/pr_2022/</loc>
+    <loc>https://example.com/publication/journal-article/pr_2022/</loc>
     <lastmod>2021-11-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/journal-article/tifs_partial_2021/</loc>
+    <loc>https://example.com/publication/journal-article/tifs_partial_2021/</loc>
     <lastmod>2021-10-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/conference-paper/icpr_ma_2021/</loc>
+    <loc>https://example.com/publication/conference-paper/icpr_ma_2021/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/conference-paper/icpr_ding_2021/</loc>
+    <loc>https://example.com/publication/conference-paper/icpr_ding_2021/</loc>
     <lastmod>2021-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/journal-article/tbiom_2021/</loc>
+    <loc>https://example.com/publication/journal-article/tbiom_2021/</loc>
     <lastmod>2021-06-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/journal-article/tifs_fagan_2021/</loc>
+    <loc>https://example.com/publication/journal-article/tifs_fagan_2021/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/tag/academic/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/categories/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/category/demo/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/post/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/post/getting-started/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2020-12-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/slides/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/slides/example/</loc>
-    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/project-example/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/admin/</loc>
+    <loc>https://example.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
