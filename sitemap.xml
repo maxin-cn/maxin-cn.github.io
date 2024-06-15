@@ -2,10 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2024-06-15T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/activity/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -156,6 +152,10 @@
   </url><url>
     <loc>https://example.com/publication/journal-article/eswa_2023/</loc>
     <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/</loc>
+    <lastmod>2023-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication/preprint/leo/</loc>
