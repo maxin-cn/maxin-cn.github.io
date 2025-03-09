@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://maxin-cn.github.io/publication-type/article/</loc>
+    <loc>https://maxin-cn.github.io/publication/conference-paper/cvpr_ma_2025/</loc>
     <lastmod>2024-07-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication/preprint/cinemo/</loc>
+    <loc>https://maxin-cn.github.io/publication-type/paper-conference/</loc>
     <lastmod>2024-07-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -66,12 +66,12 @@
     <lastmod>2024-01-16T00:55:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication-type/paper-conference/</loc>
-    <lastmod>2024-01-16T00:55:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://maxin-cn.github.io/publication/conference-paper/iclr_chen_2024/</loc>
     <lastmod>2024-01-16T00:36:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://maxin-cn.github.io/publication-type/article/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://maxin-cn.github.io/publication/preprint/latte/</loc>

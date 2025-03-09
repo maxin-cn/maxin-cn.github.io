@@ -14,9 +14,9 @@
     
     <item>
       <title>Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models</title>
-      <link>https://maxin-cn.github.io/publication/preprint/cinemo/</link>
+      <link>https://maxin-cn.github.io/publication/conference-paper/cvpr_ma_2025/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/preprint/cinemo/</guid>
+      <guid>https://maxin-cn.github.io/publication/conference-paper/cvpr_ma_2025/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -360,7 +360,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-368471952&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-273948156&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -370,7 +370,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-368471952&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-273948156&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
