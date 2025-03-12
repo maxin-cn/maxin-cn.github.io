@@ -59,10 +59,18 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     </item>
     
     <item>
+      <title>Project</title>
+      <link>https://maxin-cn.github.io/projects/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Application and expansion of DiT architecture in video generation models</title>
-      <link>https://maxin-cn.github.io/event/latte/</link>
+      <link>https://maxin-cn.github.io/talk/application-and-expansion-of-dit-architecture-in-video-generation-models/</link>
       <pubDate>Fri, 14 Jun 2024 10:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/event/latte/</guid>
+      <guid>https://maxin-cn.github.io/talk/application-and-expansion-of-dit-architecture-in-video-generation-models/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
@@ -360,7 +368,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-273948156&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-971638524&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -370,7 +378,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-273948156&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-971638524&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1000,6 +1008,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://maxin-cn.github.io/project/bak_index/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/project/bak_index/</guid>
+      <description></description>
     </item>
     
   </channel>
