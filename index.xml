@@ -95,7 +95,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     </item>
     
     <item>
-      <title>Cinemo - An image animation Framework</title>
+      <title>Cinemo - An image animation Framework (CVPR 2025)</title>
       <link>https://maxin-cn.github.io/project/cinemo/</link>
       <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/project/cinemo/</guid>
@@ -376,7 +376,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-146579823&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-751396284&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -386,7 +386,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-146579823&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-751396284&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -752,7 +752,7 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>Latte - A Transformer-based Video Diffusion Generation Framework</title>
+      <title>Latte - A first open source Transformer-based Video Diffusion Generation Framework</title>
       <link>https://maxin-cn.github.io/project/latte/</link>
       <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/project/latte/</guid>
@@ -760,7 +760,7 @@ Parallel 4   :         des6, after des4, 1d
     </item>
     
     <item>
-      <title>LaVie - A High-Quality Video Generation Framework</title>
+      <title>LaVie - A High-Quality Video Generation Framework (IJCV 2024)</title>
       <link>https://maxin-cn.github.io/project/lavie/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/project/lavie/</guid>
