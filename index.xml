@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Cinemo: Consistent and Controllable Image Animation with Motion Diffusion Models</title>
+      <title>Consistent and Controllable Image Animation with Motion Diffusion Models</title>
       <link>https://maxin-cn.github.io/publication/conference-paper/cvpr_ma_2025/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/conference-paper/cvpr_ma_2025/</guid>
@@ -63,6 +63,14 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       <link>https://maxin-cn.github.io/projects/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publication</title>
+      <link>https://maxin-cn.github.io/publication_/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/publication_/</guid>
       <description></description>
     </item>
     
@@ -368,7 +376,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-971638524&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-214538697&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -378,7 +386,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-971638524&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-214538697&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
