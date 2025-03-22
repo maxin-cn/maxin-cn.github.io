@@ -27,7 +27,7 @@
 
 
 
-&lt;div id=&#34;chart-713459286&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-721493865&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -37,7 +37,7 @@
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-713459286&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-721493865&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
