@@ -148,9 +148,9 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
     
     <item>
       <title>Latte: Latent Diffusion Transformer for Video Generation</title>
-      <link>https://maxin-cn.github.io/publication/journal-article/latte/</link>
+      <link>https://maxin-cn.github.io/publication/journal-article/tmlr_latte_2025/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/journal-article/latte/</guid>
+      <guid>https://maxin-cn.github.io/publication/journal-article/tmlr_latte_2025/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -376,7 +376,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-879536124&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-853762419&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -386,7 +386,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-879536124&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-853762419&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
