@@ -68,9 +68,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Publication</title>
-      <link>https://maxin-cn.github.io/publication_/</link>
+      <link>https://maxin-cn.github.io/publications/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication_/</guid>
+      <guid>https://maxin-cn.github.io/publications/</guid>
       <description></description>
     </item>
     
@@ -376,7 +376,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
 
 
 
-&lt;div id=&#34;chart-687394251&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-238157496&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -386,7 +386,7 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-687394251&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-238157496&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -1016,14 +1016,6 @@ Supplementary notes can be added here, including [code, math, and images](https:
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://maxin-cn.github.io/project/bak_index/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/project/bak_index/</guid>
-      <description></description>
     </item>
     
   </channel>

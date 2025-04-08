@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://maxin-cn.github.io/publication/</loc>
+    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://maxin-cn.github.io/publication/conference-paper/cvpr_ma_2025/</loc>
     <lastmod>2024-07-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -11,10 +15,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://maxin-cn.github.io/publication_types/</loc>
-    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/publication/</loc>
     <lastmod>2024-07-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -42,7 +42,7 @@
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/publication_/</loc>
+    <loc>https://maxin-cn.github.io/publications/</loc>
     <lastmod>2024-06-15T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -54,6 +54,10 @@
     <lastmod>2024-06-14T10:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://maxin-cn.github.io/project/</loc>
+    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://maxin-cn.github.io/project/cinemo/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -63,10 +67,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://maxin-cn.github.io/tag/image-animation/</loc>
-    <lastmod>2024-05-25T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/project/</loc>
     <lastmod>2024-05-25T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -200,9 +200,6 @@
   </url><url>
     <loc>https://maxin-cn.github.io/publication/journal-article/tifs_fagan_2021/</loc>
     <lastmod>2021-01-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/project/bak_index/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://maxin-cn.github.io/categories/</loc>
