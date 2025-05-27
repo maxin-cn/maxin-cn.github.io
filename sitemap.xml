@@ -3,7 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://maxin-cn.github.io/publication/</loc>
-    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://maxin-cn.github.io/publication-type/article/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://maxin-cn.github.io/publication_types/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://maxin-cn.github.io/publication/preprint/omnipainter/</loc>
+    <lastmod>2025-05-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://maxin-cn.github.io/publication/conference-paper/cvpr_ma_2025/</loc>
@@ -11,10 +23,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://maxin-cn.github.io/publication-type/paper-conference/</loc>
-    <lastmod>2024-07-22T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/publication_types/</loc>
     <lastmod>2024-07-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
