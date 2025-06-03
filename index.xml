@@ -28,7 +28,7 @@
       <link>https://maxin-cn.github.io/post/omnipainter-code/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/omnipainter-code/</guid>
-      <description>&lt;p&gt;Our paper &lt;a href=&#34;./publication/preprint/omnipainter/&#34;&gt;OmniPainter&lt;/a&gt; was released on &lt;a href=&#34;https://arxiv.org/abs/2505.19063&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;../../publication/preprint/omnipainter/&#34;&gt;OmniPainter&lt;/a&gt; was released on &lt;a href=&#34;https://arxiv.org/abs/2505.19063&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
 &lt;p&gt;Download and set up the repo:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;
@@ -50,7 +50,7 @@ bash run.sh
 &lt;/code&gt;
 &lt;/pre&gt;
 &lt;/div&gt;
-&lt;p&gt;Related model weights will be downloaded automatically and following results can be obtained &lt;a href=&#34;https://github.com/maxin-cn/OmniPainter/blob/main/visuals/style_images/pablo-picasso_bathing-1908.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Related model weights will be downloaded automatically and following results can be obtained &lt;a href=&#34;https://github.com/maxin-cn/OmniPainter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
@@ -78,10 +78,10 @@ bash run.sh
     
     <item>
       <title>🎉 2025-03-23 one paper Latte was accpeted by Transactions on Machine Learning Research (TMLR)</title>
-      <link>https://maxin-cn.github.io/post/latte-paper/</link>
+      <link>https://maxin-cn.github.io/post/latte-tmlr/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/post/latte-paper/</guid>
-      <description>&lt;p&gt;Our paper &lt;a href=&#34;./publication/journal-article/tmlr_latte_2025/&#34;&gt;Latte&lt;/a&gt; was accpeted by Transactions on Machine Learning Research (TMLR)&lt;/p&gt;
+      <guid>https://maxin-cn.github.io/post/latte-tmlr/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;../../publication/journal-article/tmlr_latte_2025/&#34;&gt;Latte&lt;/a&gt; was accpeted by Transactions on Machine Learning Research (TMLR)&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;We propose Latte, a novel Latent Diffusion Transformer for video generation. Latte first extracts spatio-temporal tokens from input videos and then adopts a series of Transformer blocks to model video distribution in the latent space. In order to model a substantial number of tokens extracted from videos, four efficient variants are introduced from the perspective of decomposing the spatial and temporal dimensions of input videos. To improve the quality of generated videos, we determine the best practices of Latte through rigorous experimental analysis, including video clip patch embedding, model variants, timestep-class information injection, temporal positional embedding, and learning strategies. Our comprehensive evaluation demonstrates that Latte achieves state-of-the-art performance across four standard video generation datasets, i.e., FaceForensics, SkyTimelapse, UCF101, and Taichi-HD. In addition, we extend Latte to the text-to-video generation (T2V) task, where Latte achieves results that are competitive with recent T2V models. We strongly believe that Latte provides valuable insights for future research on incorporating Transformers into diffusion models for video generation. Project page: &lt;a href=&#34;https://maxin-cn.github.io/latte_project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://maxin-cn.github.io/latte_project&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;inference&#34;&gt;Inference&lt;/h2&gt;
@@ -113,10 +113,10 @@ videos = pipe(prompt, video_length=video_length, output_type=&amp;lsquo;pt&amp;r
     
     <item>
       <title>🎉 2025-02-27 one paper Cinemo was accpeted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</title>
-      <link>https://maxin-cn.github.io/post/cinemo-paper/</link>
+      <link>https://maxin-cn.github.io/post/cinemo-cvpr/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/post/cinemo-paper/</guid>
-      <description>&lt;p&gt;one paper &lt;a href=&#34;./publication/conference-paper/cvpr_ma_2025/&#34;&gt;Cinemo&lt;/a&gt; was accpeted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&lt;/p&gt;
+      <guid>https://maxin-cn.github.io/post/cinemo-cvpr/</guid>
+      <description>&lt;p&gt;one paper &lt;a href=&#34;../../publication/conference-paper/cvpr_ma_2025/&#34;&gt;Cinemo&lt;/a&gt; was accpeted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Diffusion models have achieved significant progress in the task of image animation due to their powerful generative capabilities. However, preserving appearance consistency to the static input image, and avoiding abrupt motion change in the generated animation, remains challenging.
 In this paper, we introduce Cinemo, a novel image animation approach that aims at achieving better appearance consistency and motion smoothness. The core of Cinemo is to focus on learning the distribution of motion residuals, rather than directly predicting frames as in existing diffusion models.
@@ -145,16 +145,16 @@ bash pipelines/animation.sh
 &lt;/code&gt;
 &lt;/pre&gt;
 &lt;/div&gt;
-&lt;p&gt;Related model weights will be downloaded automatically, and the following results can be found &lt;a href=&#34;https://github.com/maxin-cn/Cinemo/blob/main/visuals/animations/people_walking/0.jpg&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Related model weights will be downloaded automatically, and the following results can be found &lt;a href=&#34;https://github.com/maxin-cn/Cinemo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>🎉 2024-10-28 one paper LaVie was accpeted by International Journal of Computer Vision (IJCV)</title>
-      <link>https://maxin-cn.github.io/post/lavie-paper/</link>
+      <link>https://maxin-cn.github.io/post/lavie-ijcv/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/post/lavie-paper/</guid>
-      <description>&lt;p&gt;one paper &lt;a href=&#34;./publication/journal-article/ijcv_lavie_2024/&#34;&gt;LaVie&lt;/a&gt; was accpeted by International Journal of Computer Vision (IJCV)&lt;/p&gt;
+      <guid>https://maxin-cn.github.io/post/lavie-ijcv/</guid>
+      <description>&lt;p&gt;one paper &lt;a href=&#34;../../publication/journal-article/ijcv_lavie_2024/&#34;&gt;LaVie&lt;/a&gt; was accpeted by International Journal of Computer Vision (IJCV)&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;This work aims to learn a high-quality text-to-video (T2V) generative model by leveraging a pre-trained text-to-image (T2I) model as a basis. It is a highly desirable yet challenging task to simultaneously (a) accomplish the synthesis of visually realistic and temporally coherent videos while (b) preserving the strong creative generation nature of the pre-trained T2I model. To this end, we propose LaVie, an integrated video generation framework that operates on cascaded video latent diffusion models, comprising a base T2V model, a temporal interpolation model, and a video super-resolution model. Our key insights are two-fold: (1) We reveal that the incorporation of simple temporal self-attentions, coupled with rotary positional encoding, adequately captures the temporal correlations inherent in video data. (2) Additionally, we validate that the process of joint image-video fine-tuning plays a pivotal role in producing high-quality and creative outcomes. To enhance the performance of LaVie, we contribute a comprehensive and diverse video dataset named Vimeo25M, consisting of 25 million text-video pairs that prioritize quality, diversity, and aesthetic appeal. Extensive experiments demonstrate that LaVie achieves state-of-the-art performance both quantitatively and qualitatively. Furthermore, we showcase the versatility of pre-trained LaVie models in various long video generation and personalized video synthesis applications. Project page: &lt;a href=&#34;https://github.com/Vchitect/LaVie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Vchitect/LaVie/&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -162,10 +162,10 @@ bash pipelines/animation.sh
     
     <item>
       <title>🎉 2024-08-20 one paper LEO was accpeted by International Journal of Computer Vision (IJCV)</title>
-      <link>https://maxin-cn.github.io/post/leo-paper/</link>
+      <link>https://maxin-cn.github.io/post/leo-ijcv/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/post/leo-paper/</guid>
-      <description>&lt;p&gt;one paper &lt;a href=&#34;./publication/journal-article/ijcv_leo_2024/&#34;&gt;LEO&lt;/a&gt; was accpeted by International Journal of Computer Vision (IJCV).&lt;/p&gt;
+      <guid>https://maxin-cn.github.io/post/leo-ijcv/</guid>
+      <description>&lt;p&gt;one paper &lt;a href=&#34;../../publication/journal-article/ijcv_leo_2024/&#34;&gt;LEO&lt;/a&gt; was accpeted by International Journal of Computer Vision (IJCV).&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;Spatio-temporal coherency is a major challenge in synthesizing high quality videos, particularly in synthesizing human videos that contain rich global and local deformations. To resolve this challenge, previous approaches have resorted to different features in the generation process aimed at representing appearance and motion. However, in the absence of strict mechanisms to guarantee such disentanglement, a separation of motion from appearance has remained challenging, resulting in spatial distortions and temporal jittering that break the spatio-temporal coherency. Motivated by this, we here propose LEO, a novel framework for human video synthesis, placing emphasis on spatio-temporal coherency. Our key idea is to represent motion as a sequence of flow maps in the generation process, which inherently isolate motion from appearance. We implement this idea via a flow-based image animator and a Latent Motion Diffusion Model (LMDM). The former bridges a space of motion codes with the space of flow maps, and synthesizes video frames in a warp-and-inpaint manner. LMDM learns to capture motion prior in the training data by synthesizing sequences of motion codes. Extensive quantitative and qualitative analysis suggests that LEO significantly improves coherent synthesis of human videos over previous methods on the datasets TaichiHD, FaceForensics and CelebV-HQ. In addition, the effective disentanglement of appearance and motion in LEO allows for two additional tasks, namely infinite-length human video synthesis, as well as content-preserving video editing.&lt;/p&gt;
 </description>
@@ -266,7 +266,7 @@ Further event details, including [page elements](https://wowchemy.com/docs/writi
       <link>https://maxin-cn.github.io/post/invited-talk-latte/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/invited-talk-latte/</guid>
-      <description>&lt;p&gt;I have been invited to give a &lt;a href=&#34;./event&#34;&gt;talk&lt;/a&gt; on &amp;ldquo;Application and Expansion of the DiT Architecture in Video Generation Models&amp;rdquo; at &lt;a href=&#34;https://course.zhidx.com/topic/detail/YmE3M2QxN2I4YmE0M2IwMGQ0MjM=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intelligent Things&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;I have been invited to give a &lt;a href=&#34;../../event&#34;&gt;talk&lt;/a&gt; on &amp;ldquo;Application and Expansion of the DiT Architecture in Video Generation Models&amp;rdquo; at &lt;a href=&#34;https://course.zhidx.com/topic/detail/YmE3M2QxN2I4YmE0M2IwMGQ0MjM=&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intelligent Things&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;In this talk, I will share the current state and recent advances in video generation research. I will then introduce Latte, a Transformer-based video diffusion model. Following that, I will present some visual comparisons of generated videos. Finally, I will conclude with a discussion on potential future directions and task extensions in text-to-video generation.&lt;/p&gt;
 </description>
