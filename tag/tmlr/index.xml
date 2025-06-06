@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TMLR | Xin Ma</title>
+    <link>https://maxin-cn.github.io/tag/tmlr/</link>
+      <atom:link href="https://maxin-cn.github.io/tag/tmlr/index.xml" rel="self" type="application/rss+xml" />
+    <description>TMLR</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>TMLR</title>
+      <link>https://maxin-cn.github.io/tag/tmlr/</link>
+    </image>
+    
+    <item>
+      <title>🎉 one paper Latte was accpeted by Transactions on Machine Learning Research (TMLR)</title>
+      <link>https://maxin-cn.github.io/post/latte-tmlr/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/post/latte-tmlr/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;../../publication/journal-article/tmlr_latte_2025/&#34;&gt;Latte&lt;/a&gt; was accpeted by Transactions on Machine Learning Research (TMLR)&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;We propose Latte, a novel Latent Diffusion Transformer for video generation. Latte first extracts spatio-temporal tokens from input videos and then adopts a series of Transformer blocks to model video distribution in the latent space. In order to model a substantial number of tokens extracted from videos, four efficient variants are introduced from the perspective of decomposing the spatial and temporal dimensions of input videos. To improve the quality of generated videos, we determine the best practices of Latte through rigorous experimental analysis, including video clip patch embedding, model variants, timestep-class information injection, temporal positional embedding, and learning strategies. Our comprehensive evaluation demonstrates that Latte achieves state-of-the-art performance across four standard video generation datasets, i.e., FaceForensics, SkyTimelapse, UCF101, and Taichi-HD. In addition, we extend Latte to the text-to-video generation (T2V) task, where Latte achieves results that are competitive with recent T2V models. We strongly believe that Latte provides valuable insights for future research on incorporating Transformers into diffusion models for video generation. Project page: &lt;a href=&#34;https://maxin-cn.github.io/latte_project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://maxin-cn.github.io/latte_project&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;inference&#34;&gt;Inference&lt;/h2&gt;
+&lt;p&gt;Latte-1 is now integrated into diffusers.&lt;/p&gt;
+&lt;p&gt;You can easily run Latte using the following code. We also support inference with 4/8-bit quantization, which can reduce GPU memory from 17 GB to 9 GB.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+#Please update the version of diffusers at leaset to 0.30.0
+from diffusers import LattePipeline
+from diffusers.models import AutoencoderKLTemporalDecoder
+from torchvision.utils import save_image
+import torch
+import imageio
+&lt;p&gt;torch.manual_seed(0)&lt;/p&gt;
+&lt;p&gt;device = &amp;ldquo;cuda&amp;rdquo; if torch.cuda.is_available() else &amp;ldquo;cpu&amp;rdquo;
+video_length = 16 # 1 (text-to-image) or 16 (text-to-video)
+pipe = LattePipeline.from_pretrained(&amp;ldquo;maxin-cn/Latte-1&amp;rdquo;, torch_dtype=torch.float16).to(device)&lt;/p&gt;
+&lt;p&gt;#Using temporal decoder of VAE
+vae = AutoencoderKLTemporalDecoder.from_pretrained(&amp;ldquo;maxin-cn/Latte-1&amp;rdquo;, subfolder=&amp;ldquo;vae_temporal_decoder&amp;rdquo;, torch_dtype=torch.float16).to(device)
+pipe.vae = vae&lt;/p&gt;
+&lt;p&gt;prompt = &amp;ldquo;a cat wearing sunglasses and working as a lifeguard at pool.&amp;rdquo;
+videos = pipe(prompt, video_length=video_length, output_type=&amp;lsquo;pt&amp;rsquo;).frames.cpu()
+&lt;/code&gt;
+&lt;/pre&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Latte: Latent Diffusion Transformer for Video Generation</title>
+      <link>https://maxin-cn.github.io/publication/journal-article/tmlr_latte_2025/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/publication/journal-article/tmlr_latte_2025/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Add the publication&#39;s **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). --&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

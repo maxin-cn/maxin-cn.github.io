@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugging Face | Xin Ma</title>
+    <link>https://maxin-cn.github.io/tag/hugging-face/</link>
+      <atom:link href="https://maxin-cn.github.io/tag/hugging-face/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugging Face</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 23 May 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Hugging Face</title>
+      <link>https://maxin-cn.github.io/tag/hugging-face/</link>
+    </image>
+    
+    <item>
+      <title>✅ Release the checkpoints of Latte-1</title>
+      <link>https://maxin-cn.github.io/post/latte-code/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/post/latte-code/</guid>
+      <description>&lt;p&gt;We release the &lt;a href=&#34;https://huggingface.co/maxin-cn/Latte-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chckpoints&lt;/a&gt; of &lt;a href=&#34;https://github.com/Vchitect/Latte&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Latte-1&lt;/a&gt; on Hugging Face.&lt;/p&gt;
+&lt;h2 id=&#34;inference&#34;&gt;Inference&lt;/h2&gt;
+&lt;p&gt;Latte-1 is now integrated into diffusers.&lt;/p&gt;
+&lt;p&gt;You can easily run Latte using the following code. We also support inference with 4/8-bit quantization, which can reduce GPU memory from 17 GB to 9 GB.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+#Please update the version of diffusers at leaset to 0.30.0
+from diffusers import LattePipeline
+from diffusers.models import AutoencoderKLTemporalDecoder
+from torchvision.utils import save_image
+import torch
+import imageio
+&lt;p&gt;torch.manual_seed(0)&lt;/p&gt;
+&lt;p&gt;device = &amp;ldquo;cuda&amp;rdquo; if torch.cuda.is_available() else &amp;ldquo;cpu&amp;rdquo;
+video_length = 16 # 1 (text-to-image) or 16 (text-to-video)
+pipe = LattePipeline.from_pretrained(&amp;ldquo;maxin-cn/Latte-1&amp;rdquo;, torch_dtype=torch.float16).to(device)&lt;/p&gt;
+&lt;p&gt;#Using temporal decoder of VAE
+vae = AutoencoderKLTemporalDecoder.from_pretrained(&amp;ldquo;maxin-cn/Latte-1&amp;rdquo;, subfolder=&amp;ldquo;vae_temporal_decoder&amp;rdquo;, torch_dtype=torch.float16).to(device)
+pipe.vae = vae&lt;/p&gt;
+&lt;p&gt;prompt = &amp;ldquo;a cat wearing sunglasses and working as a lifeguard at pool.&amp;rdquo;
+videos = pipe(prompt, video_length=video_length, output_type=&amp;lsquo;pt&amp;rsquo;).frames.cpu()
+&lt;/code&gt;
+&lt;/pre&gt;&lt;/p&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

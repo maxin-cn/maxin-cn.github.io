@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ICLR | Xin Ma</title>
+    <link>https://maxin-cn.github.io/tag/iclr/</link>
+      <atom:link href="https://maxin-cn.github.io/tag/iclr/index.xml" rel="self" type="application/rss+xml" />
+    <description>ICLR</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 16 Jan 2024 00:55:00 +0000</lastBuildDate>
+    <image>
+      <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>ICLR</title>
+      <link>https://maxin-cn.github.io/tag/iclr/</link>
+    </image>
+    
+    <item>
+      <title>InternVid: A Large-scale Video-Text Dataset for Multimodal Understanding and Generation</title>
+      <link>https://maxin-cn.github.io/publication/conference-paper/iclr_wang_2024/</link>
+      <pubDate>Tue, 16 Jan 2024 00:55:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/publication/conference-paper/iclr_wang_2024/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>SEINE: Short-to-Long Video Diffusion Model for Generative Transition and Prediction</title>
+      <link>https://maxin-cn.github.io/publication/conference-paper/iclr_chen_2024/</link>
+      <pubDate>Tue, 16 Jan 2024 00:36:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/publication/conference-paper/iclr_chen_2024/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

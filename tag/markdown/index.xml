@@ -24,7 +24,7 @@
     </item>
     
     <item>
-      <title>✅ 2025-05-27 one paper OmniPainter was released on arxiv</title>
+      <title>⬆️ one paper OmniPainter was released on arxiv</title>
       <link>https://maxin-cn.github.io/post/omnipainter-code/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/omnipainter-code/</guid>
@@ -55,7 +55,7 @@ bash run.sh
     </item>
     
     <item>
-      <title>🎉 2025-03-23 one paper Latte was accpeted by Transactions on Machine Learning Research (TMLR)</title>
+      <title>🎉 one paper Latte was accpeted by Transactions on Machine Learning Research (TMLR)</title>
       <link>https://maxin-cn.github.io/post/latte-tmlr/</link>
       <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/latte-tmlr/</guid>
@@ -90,7 +90,7 @@ videos = pipe(prompt, video_length=video_length, output_type=&amp;lsquo;pt&amp;r
     </item>
     
     <item>
-      <title>🎉 2025-02-27 one paper Cinemo was accpeted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</title>
+      <title>🎉 one paper Cinemo was accpeted by IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</title>
       <link>https://maxin-cn.github.io/post/cinemo-cvpr/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/cinemo-cvpr/</guid>
@@ -128,7 +128,7 @@ bash pipelines/animation.sh
     </item>
     
     <item>
-      <title>🎉 2024-10-28 one paper LaVie was accpeted by International Journal of Computer Vision (IJCV)</title>
+      <title>🎉 one paper LaVie was accpeted by International Journal of Computer Vision (IJCV)</title>
       <link>https://maxin-cn.github.io/post/lavie-ijcv/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/lavie-ijcv/</guid>
@@ -139,7 +139,7 @@ bash pipelines/animation.sh
     </item>
     
     <item>
-      <title>🎉 2024-08-20 one paper LEO was accpeted by International Journal of Computer Vision (IJCV)</title>
+      <title>🎉 one paper LEO was accpeted by International Journal of Computer Vision (IJCV)</title>
       <link>https://maxin-cn.github.io/post/leo-ijcv/</link>
       <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/leo-ijcv/</guid>
@@ -150,7 +150,7 @@ bash pipelines/animation.sh
     </item>
     
     <item>
-      <title>👩🏼‍🏫 2024-06-14 Invited talk on “Application and expansion of DiT architecture in video generation models” at Intelligent things</title>
+      <title>👩🏼‍🏫 Invited talk on “Application and expansion of DiT architecture in video generation models” at Intelligent things</title>
       <link>https://maxin-cn.github.io/post/invited-talk-latte/</link>
       <pubDate>Fri, 14 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/invited-talk-latte/</guid>
@@ -161,7 +161,7 @@ bash pipelines/animation.sh
     </item>
     
     <item>
-      <title>✅ 2024-06-02 Release the codes of Cinemo</title>
+      <title>✅ Release the codes of Cinemo</title>
       <link>https://maxin-cn.github.io/post/cinemo-code/</link>
       <pubDate>Sun, 02 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/cinemo-code/</guid>
@@ -192,7 +192,7 @@ bash pipelines/animation.sh
     </item>
     
     <item>
-      <title>✅ 2024-05-23 Release the checkpoints of Latte-1</title>
+      <title>✅ Release the checkpoints of Latte-1</title>
       <link>https://maxin-cn.github.io/post/latte-code/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/latte-code/</guid>
