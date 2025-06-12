@@ -17,7 +17,18 @@
       <link>https://maxin-cn.github.io/post/latte-code/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/latte-code/</guid>
-      <description>&lt;p&gt;We release the &lt;a href=&#34;https://huggingface.co/maxin-cn/Latte-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chckpoints&lt;/a&gt; of &lt;a href=&#34;https://github.com/Vchitect/Latte&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Latte-1&lt;/a&gt; on Hugging Face.&lt;/p&gt;
+      <description>&lt;!-- 
+
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#inference&#34;&gt;Inference&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+ --&gt;
+&lt;p&gt;We release the &lt;a href=&#34;https://huggingface.co/maxin-cn/Latte-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chckpoints&lt;/a&gt; of &lt;a href=&#34;https://github.com/Vchitect/Latte&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Latte-1&lt;/a&gt; on Hugging Face.&lt;/p&gt;
 &lt;h2 id=&#34;inference&#34;&gt;Inference&lt;/h2&gt;
 &lt;p&gt;Latte-1 is now integrated into diffusers.&lt;/p&gt;
 &lt;p&gt;You can easily run Latte using the following code. We also support inference with 4/8-bit quantization, which can reduce GPU memory from 17 GB to 9 GB.&lt;/p&gt;

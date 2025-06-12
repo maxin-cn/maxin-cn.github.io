@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>💞️ Always pursuse research collaborations. Feel free to contact me if you&#39;re interested</title>
+      <title>💞️ Always pursuse research collaborations. Feel free to contact me if you are interested</title>
       <link>https://maxin-cn.github.io/post/research-collaboration/</link>
       <pubDate>Mon, 02 Jun 2025 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/research-collaboration/</guid>
@@ -154,18 +154,7 @@ bash pipelines/animation.sh
       <link>https://maxin-cn.github.io/post/lavie-ijcv/</link>
       <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/lavie-ijcv/</guid>
-      <description>&lt;!-- 
-
-&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
-  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#abstract&#34;&gt;Abstract&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-&lt;/details&gt;
- --&gt;
-&lt;p&gt;one paper &lt;a href=&#34;../../publication/journal-article/ijcv_lavie_2024/&#34;&gt;LaVie&lt;/a&gt; was accpeted by International Journal of Computer Vision (IJCV)&lt;/p&gt;
+      <description>&lt;p&gt;one paper &lt;a href=&#34;../../publication/journal-article/ijcv_lavie_2024/&#34;&gt;LaVie&lt;/a&gt; was accpeted by International Journal of Computer Vision (IJCV)&lt;/p&gt;
 &lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
 &lt;p&gt;This work aims to learn a high-quality text-to-video (T2V) generative model by leveraging a pre-trained text-to-image (T2I) model as a basis. It is a highly desirable yet challenging task to simultaneously (a) accomplish the synthesis of visually realistic and temporally coherent videos while (b) preserving the strong creative generation nature of the pre-trained T2I model. To this end, we propose LaVie, an integrated video generation framework that operates on cascaded video latent diffusion models, comprising a base T2V model, a temporal interpolation model, and a video super-resolution model. Our key insights are two-fold: (1) We reveal that the incorporation of simple temporal self-attentions, coupled with rotary positional encoding, adequately captures the temporal correlations inherent in video data. (2) Additionally, we validate that the process of joint image-video fine-tuning plays a pivotal role in producing high-quality and creative outcomes. To enhance the performance of LaVie, we contribute a comprehensive and diverse video dataset named Vimeo25M, consisting of 25 million text-video pairs that prioritize quality, diversity, and aesthetic appeal. Extensive experiments demonstrate that LaVie achieves state-of-the-art performance both quantitatively and qualitatively. Furthermore, we showcase the versatility of pre-trained LaVie models in various long video generation and personalized video synthesis applications. Project page: &lt;a href=&#34;https://github.com/Vchitect/LaVie/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/Vchitect/LaVie/&lt;/a&gt;.&lt;/p&gt;
 </description>
@@ -209,6 +198,14 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       <link>https://maxin-cn.github.io/activities/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/activities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Activity</title>
+      <link>https://maxin-cn.github.io/activity/</link>
+      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/activity/</guid>
       <description></description>
     </item>
     
@@ -327,7 +324,18 @@ bash pipelines/animation.sh
       <link>https://maxin-cn.github.io/post/latte-code/</link>
       <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/latte-code/</guid>
-      <description>&lt;p&gt;We release the &lt;a href=&#34;https://huggingface.co/maxin-cn/Latte-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chckpoints&lt;/a&gt; of &lt;a href=&#34;https://github.com/Vchitect/Latte&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Latte-1&lt;/a&gt; on Hugging Face.&lt;/p&gt;
+      <description>&lt;!-- 
+
+&lt;details class=&#34;toc-inpage d-print-none  &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#inference&#34;&gt;Inference&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+ --&gt;
+&lt;p&gt;We release the &lt;a href=&#34;https://huggingface.co/maxin-cn/Latte-1&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;chckpoints&lt;/a&gt; of &lt;a href=&#34;https://github.com/Vchitect/Latte&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Latte-1&lt;/a&gt; on Hugging Face.&lt;/p&gt;
 &lt;h2 id=&#34;inference&#34;&gt;Inference&lt;/h2&gt;
 &lt;p&gt;Latte-1 is now integrated into diffusers.&lt;/p&gt;
 &lt;p&gt;You can easily run Latte using the following code. We also support inference with 4/8-bit quantization, which can reduce GPU memory from 17 GB to 9 GB.&lt;/p&gt;
