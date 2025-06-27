@@ -70,11 +70,14 @@ bash run.sh
       <link>https://maxin-cn.github.io/publication/preprint/omnipainter/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/preprint/omnipainter/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -187,11 +190,14 @@ bash pipelines/animation.sh
       <link>https://maxin-cn.github.io/publication/conference-paper/cvpr_ma_2025/</link>
       <pubDate>Mon, 22 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/conference-paper/cvpr_ma_2025/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -379,11 +385,14 @@ videos = pipe(prompt, video_length=video_length, output_type=&amp;lsquo;pt&amp;r
       <link>https://maxin-cn.github.io/publication/conference-paper/iclr_wang_2024/</link>
       <pubDate>Tue, 16 Jan 2024 00:55:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/conference-paper/iclr_wang_2024/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -401,11 +410,14 @@ videos = pipe(prompt, video_length=video_length, output_type=&amp;lsquo;pt&amp;r
       <link>https://maxin-cn.github.io/publication/conference-paper/iclr_chen_2024/</link>
       <pubDate>Tue, 16 Jan 2024 00:36:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/conference-paper/iclr_chen_2024/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -423,11 +435,14 @@ videos = pipe(prompt, video_length=video_length, output_type=&amp;lsquo;pt&amp;r
       <link>https://maxin-cn.github.io/publication/journal-article/tmlr_latte_2025/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/journal-article/tmlr_latte_2025/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -469,11 +484,14 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       <link>https://maxin-cn.github.io/publication/journal-article/ijcv_lavie_2024/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/journal-article/ijcv_lavie_2024/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -491,11 +509,14 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       <link>https://maxin-cn.github.io/publication/journal-article/eswa_2023/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/journal-article/eswa_2023/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -514,11 +535,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://maxin-cn.github.io/publication/journal-article/ijcv_leo_2024/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/journal-article/ijcv_leo_2024/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -536,11 +560,14 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
       <link>https://maxin-cn.github.io/publication/conference-paper/prcv_2022/</link>
       <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/conference-paper/prcv_2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -567,11 +594,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://maxin-cn.github.io/publication/conference-paper/cvpr_2022/</link>
       <pubDate>Sun, 01 May 2022 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/conference-paper/cvpr_2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -589,11 +619,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://maxin-cn.github.io/publication/journal-article/pr_2022/</link>
       <pubDate>Sat, 27 Nov 2021 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/journal-article/pr_2022/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -612,11 +645,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://maxin-cn.github.io/publication/journal-article/tifs_partial_2021/</link>
       <pubDate>Wed, 27 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/journal-article/tifs_partial_2021/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -635,11 +671,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://maxin-cn.github.io/publication/conference-paper/icpr_ma_2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/conference-paper/icpr_ma_2021/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -658,11 +697,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://maxin-cn.github.io/publication/conference-paper/icpr_ding_2021/</link>
       <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/conference-paper/icpr_ding_2021/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -681,11 +723,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://maxin-cn.github.io/publication/journal-article/tbiom_2021/</link>
       <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/journal-article/tbiom_2021/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;
@@ -704,11 +749,14 @@ Supplementary notes can be added here, including [code, math, and images](https:
       <link>https://maxin-cn.github.io/publication/journal-article/tifs_fagan_2021/</link>
       <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/publication/journal-article/tifs_fagan_2021/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
   &lt;/div&gt;
 &lt;/div&gt;
+ --&gt;
 &lt;!-- 
 
 
