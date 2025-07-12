@@ -223,14 +223,6 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Activity</title>
-      <link>https://maxin-cn.github.io/activities/</link>
-      <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/activities/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Activity</title>
       <link>https://maxin-cn.github.io/activity/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/activity/</guid>
@@ -271,9 +263,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Talks</title>
-      <link>https://maxin-cn.github.io/talks/</link>
+      <link>https://maxin-cn.github.io/talk/</link>
       <pubDate>Sat, 15 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/talks/</guid>
+      <guid>https://maxin-cn.github.io/talk/</guid>
       <description></description>
     </item>
     
@@ -468,9 +460,9 @@ Add the publication&#39;s **full text** or **supplementary notes** here. You can
     
     <item>
       <title>Experience</title>
-      <link>https://maxin-cn.github.io/work_experiences/</link>
+      <link>https://maxin-cn.github.io/work_experience/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/work_experiences/</guid>
+      <guid>https://maxin-cn.github.io/work_experience/</guid>
       <description></description>
     </item>
     
