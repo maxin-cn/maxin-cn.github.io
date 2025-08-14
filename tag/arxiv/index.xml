@@ -5,12 +5,68 @@
     <link>https://maxin-cn.github.io/tag/arxiv/</link>
       <atom:link href="https://maxin-cn.github.io/tag/arxiv/index.xml" rel="self" type="application/rss+xml" />
     <description>Arxiv</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 27 May 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Arxiv</title>
       <link>https://maxin-cn.github.io/tag/arxiv/</link>
     </image>
+    
+    <item>
+      <title>⬆️ one paper Miramo that explored image animation using linear attention was released on arXiv</title>
+      <link>https://maxin-cn.github.io/post/miramo-paper/</link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/post/miramo-paper/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;../../publication/preprint/miramo/&#34;&gt;MiraMo&lt;/a&gt; was released on &lt;a href=&#34;https://arxiv.org/abs/2508.07246&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
+&lt;p&gt;Download and set up the repo:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+git clone https://github.com/maxin-cn/MiraMo
+cd MiraMo
+conda env create -f environment.yml
+conda activate miramo
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;animation&#34;&gt;Animation&lt;/h2&gt;
+&lt;p&gt;You can sample from our pre-trained MiraMo models. Weights for our pre-trained MiraMo model can be found &lt;a href=&#34;https://huggingface.co/maxin-cn/MiraMo/tree/main&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The script has various arguments for adjusting sampling steps, changing the classifier-free guidance scale, etc:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+bash pipelines/animation.sh
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;Related model weights will be downloaded automatically, and the following results can be found &lt;a href=&#34;https://github.com/maxin-cn/MiraMo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers</title>
+      <link>https://maxin-cn.github.io/publication/preprint/miramo/</link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/publication/preprint/miramo/</guid>
+      <description>&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- 
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>⬆️ one paper OmniPainter was released on arXiv</title>

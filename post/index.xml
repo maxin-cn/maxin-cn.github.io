@@ -5,12 +5,43 @@
     <link>https://maxin-cn.github.io/post/</link>
       <atom:link href="https://maxin-cn.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 10 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Blog</title>
       <link>https://maxin-cn.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>⬆️ one paper Miramo that explored image animation using linear attention was released on arXiv</title>
+      <link>https://maxin-cn.github.io/post/miramo-paper/</link>
+      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/post/miramo-paper/</guid>
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;../../publication/preprint/miramo/&#34;&gt;MiraMo&lt;/a&gt; was released on &lt;a href=&#34;https://arxiv.org/abs/2508.07246&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
+&lt;p&gt;Download and set up the repo:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+git clone https://github.com/maxin-cn/MiraMo
+cd MiraMo
+conda env create -f environment.yml
+conda activate miramo
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;h2 id=&#34;animation&#34;&gt;Animation&lt;/h2&gt;
+&lt;p&gt;You can sample from our pre-trained MiraMo models. Weights for our pre-trained MiraMo model can be found &lt;a href=&#34;https://huggingface.co/maxin-cn/MiraMo/tree/main&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;. The script has various arguments for adjusting sampling steps, changing the classifier-free guidance scale, etc:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;
+&lt;pre class=&#34;chroma&#34;&gt;
+&lt;code&gt;
+bash pipelines/animation.sh
+&lt;/code&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;p&gt;Related model weights will be downloaded automatically, and the following results can be found &lt;a href=&#34;https://github.com/maxin-cn/MiraMo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>👩🏼‍🏫 Graduating in late 2025 to early 2026 and currently seeking full-time job opportunities. Please contact me if you are recruiting</title>
