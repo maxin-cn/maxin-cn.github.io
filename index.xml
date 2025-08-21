@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>⬆️ one paper Miramo that explored image animation using linear attention was released on arXiv</title>
+      <title>⬆️ one paper Miramo exploring image animation using linear attention was released on arXiv</title>
       <link>https://maxin-cn.github.io/post/miramo-paper/</link>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/miramo-paper/</guid>
-      <description>&lt;p&gt;Our paper &lt;a href=&#34;../../publication/preprint/miramo/&#34;&gt;MiraMo&lt;/a&gt; was released on &lt;a href=&#34;https://arxiv.org/abs/2508.07246&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;!-- Our paper [MiraMo](../../publication/preprint/miramo/) was released on [arxiv](https://arxiv.org/abs/2508.07246). --&gt;
+&lt;p&gt;We have released &lt;a href=&#34;../../publication/preprint/miramo/&#34;&gt;MiraMo&lt;/a&gt; on arXiv. It is among the first papers to explore linear attention for video generation.&lt;/p&gt;
 &lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
 &lt;p&gt;Download and set up the repo:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;
@@ -104,11 +105,11 @@ bash pipelines/animation.sh
     </item>
     
     <item>
-      <title>⬆️ one paper OmniPainter was released on arXiv</title>
+      <title>⬆️ one paper OmniPainter for the sylized T2I generation was released on arXiv</title>
       <link>https://maxin-cn.github.io/post/omnipainter-code/</link>
       <pubDate>Tue, 27 May 2025 00:00:00 +0000</pubDate>
       <guid>https://maxin-cn.github.io/post/omnipainter-code/</guid>
-      <description>&lt;p&gt;Our paper &lt;a href=&#34;../../publication/preprint/omnipainter/&#34;&gt;OmniPainter&lt;/a&gt; was released on &lt;a href=&#34;https://arxiv.org/abs/2505.19063&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv&lt;/a&gt;.&lt;/p&gt;
+      <description>&lt;p&gt;Our paper &lt;a href=&#34;../../publication/preprint/omnipainter/&#34;&gt;OmniPainter&lt;/a&gt; for the sylized text-to-image generation was released on &lt;a href=&#34;https://arxiv.org/abs/2505.19063&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arxiv&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;setup&#34;&gt;Setup&lt;/h2&gt;
 &lt;p&gt;Download and set up the repo:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;
