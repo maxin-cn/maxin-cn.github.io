@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PG | Xin Ma</title>
+    <link>https://maxin-cn.github.io/tag/pg/</link>
+      <atom:link href="https://maxin-cn.github.io/tag/pg/index.xml" rel="self" type="application/rss+xml" />
+    <description>PG</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>PG</title>
+      <link>https://maxin-cn.github.io/tag/pg/</link>
+    </image>
+    
+    <item>
+      <title>🎉 one paper for the cartoon animation was accpeted by Pacific Graphics (PG)</title>
+      <link>https://maxin-cn.github.io/post/cartoon-pg2025/</link>
+      <pubDate>Sat, 09 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/post/cartoon-pg2025/</guid>
+      <description>&lt;p&gt;one paper was accpeted by Pacific Graphics (PG)&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Cartoon and anime motion production is traditionally labor-intensive, requiring detailed animatics and extensive in-betweening from keyframes. To streamline this process, we propose a novel framework that synthesizes motion directly from a single colored keyframe, guided by user-provided trajectories. Addressing the limitations of prior methods, which struggle with anime due to reliance on optical flow estimators and models trained on natural videos, we introduce an efficient motion representation specifically adapted for anime, leveraging CoTracker to capture sparse frame-to-frame tracking effectively. To achieve our objective, we design a two-stage learning mechanism: the first stage predicts sparse motion from input frames and trajectories, generating a motion preview sequence via explicit warping; the second stage refines these previews into high-quality anime frames by fine-tuning ToonCrafter, an anime-specific video diffusion model. We train our framework on a novel animation video dataset comprising more than 500,000 clips. Experimental results demonstrate significant improvements in animating still frames, achieving better alignment with user-provided trajectories and more natural motion patterns while preserving anime stylization and visual quality. Our method also supports versatile applications, including motion manga generation and 2D vector graphic animations.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
