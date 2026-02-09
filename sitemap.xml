@@ -2,6 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://maxin-cn.github.io/post/miramo-tpami/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://maxin-cn.github.io/post/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://maxin-cn.github.io/tag/markdown/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://maxin-cn.github.io/tags/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://maxin-cn.github.io/tag/tpami/</loc>
+    <lastmod>2026-02-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://maxin-cn.github.io/publication/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -15,10 +35,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://maxin-cn.github.io/publication_types/</loc>
-    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/tags/</loc>
     <lastmod>2025-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -38,15 +54,7 @@
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://maxin-cn.github.io/post/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/publication/preprint/miramo/</loc>
-    <lastmod>2025-08-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://maxin-cn.github.io/tag/markdown/</loc>
+    <loc>https://maxin-cn.github.io/publication/journal-article/miramo_tpami_2026/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

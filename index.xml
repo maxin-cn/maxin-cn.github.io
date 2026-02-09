@@ -13,6 +13,21 @@
     </image>
     
     <item>
+      <title>🎉 Our paper MiraMo was accpeted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</title>
+      <link>https://maxin-cn.github.io/post/miramo-tpami/</link>
+      <pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://maxin-cn.github.io/post/miramo-tpami/</guid>
+      <description>&lt;p&gt;one paper &lt;a href=&#34;../../publication/journal-article/miramo_tpami_2026/&#34;&gt;MiraMo&lt;/a&gt; was accpeted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)&lt;/p&gt;
+&lt;h2 id=&#34;abstract&#34;&gt;Abstract&lt;/h2&gt;
+&lt;p&gt;Image animation has seen significant progress, driven by the powerful generative capabilities of diffusion models.
+However, maintaining appearance consistency with static input images and mitigating abrupt motion transitions in generated animations remain persistent challenges. While text-to-video (T2V) generation has demonstrated impressive performance with diffusion transformer models, the image animation field still largely relies on U-Net-based diffusion models, which lag behind the latest T2V approaches. Moreover, the quadratic complexity of vanilla self-attention mechanisms in Transformers imposes heavy computational demands, making image animation particularly resource-intensive.
+To address these issues, we propose MiraMo, a framework designed to enhance efficiency, appearance consistency, and motion smoothness in image animation.
+Specifically, MiraMo introduces three key elements: (1) A foundational text-to-video architecture replacing vanilla self-attention with efficient linear attention to reduce computational overhead while preserving generation quality; (2) A novel motion residual learning paradigm that focuses on modeling motion dynamics rather than directly predicting frames, improving temporal consistency; and (3) A DCT-based noise refinement strategy during inference to suppress sudden motion artifacts, complemented by a dynamics control module to balance motion smoothness and expressiveness.
+Extensive experiments against state-of-the-art methods validate the superiority of MiraMo in generating consistent, smooth, and controllable animations with accelerated inference speed. Additionally, we demonstrate the versatility of MiraMo through applications in motion transfer and video editing tasks. The project page is available at: &lt;a href=&#34;https://maxin-cn.github.io/miramo_project&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://maxin-cn.github.io/miramo_project&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Trajectory-guided Anime Video Synthesis via Effective Motion Learning</title>
       <link>https://maxin-cn.github.io/publication/conference-paper/pg_2025/</link>
       <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
@@ -70,10 +85,10 @@ bash pipelines/animation.sh
     </item>
     
     <item>
-      <title>Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers</title>
-      <link>https://maxin-cn.github.io/publication/preprint/miramo/</link>
+      <title>Consistent and Controllable Image Animation with Linear Motion Diffusion Transformers</title>
+      <link>https://maxin-cn.github.io/publication/journal-article/miramo_tpami_2026/</link>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/preprint/miramo/</guid>
+      <guid>https://maxin-cn.github.io/publication/journal-article/miramo_tpami_2026/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

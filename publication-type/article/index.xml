@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Article | Xin Ma</title>
+    <title>article | Xin Ma</title>
     <link>https://maxin-cn.github.io/publication-type/article/</link>
       <atom:link href="https://maxin-cn.github.io/publication-type/article/index.xml" rel="self" type="application/rss+xml" />
-    <description>Article</description>
+    <description>article</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Article</title>
+      <title>article</title>
       <link>https://maxin-cn.github.io/publication-type/article/</link>
     </image>
     
     <item>
-      <title>Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers</title>
-      <link>https://maxin-cn.github.io/publication/preprint/miramo/</link>
+      <title>Consistent and Controllable Image Animation with Linear Motion Diffusion Transformers</title>
+      <link>https://maxin-cn.github.io/publication/journal-article/miramo_tpami_2026/</link>
       <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/preprint/miramo/</guid>
+      <guid>https://maxin-cn.github.io/publication/journal-article/miramo_tpami_2026/</guid>
       <description>&lt;!-- 
 
 &lt;div class=&#34;alert alert-note&#34;&gt;

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Arxiv | Xin Ma</title>
+    <title>arXiv | Xin Ma</title>
     <link>https://maxin-cn.github.io/tag/arxiv/</link>
       <atom:link href="https://maxin-cn.github.io/tag/arxiv/index.xml" rel="self" type="application/rss+xml" />
-    <description>Arxiv</description>
+    <description>arXiv</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 10 Aug 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maxin-cn.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
-      <title>Arxiv</title>
+      <title>arXiv</title>
       <link>https://maxin-cn.github.io/tag/arxiv/</link>
     </image>
     
@@ -41,31 +41,6 @@ bash pipelines/animation.sh
 &lt;/pre&gt;
 &lt;/div&gt;
 &lt;p&gt;Related model weights will be downloaded automatically, and the following results can be found &lt;a href=&#34;https://github.com/maxin-cn/MiraMo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Consistent and Controllable Image Animation with Motion Linear Diffusion Transformers</title>
-      <link>https://maxin-cn.github.io/publication/preprint/miramo/</link>
-      <pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>https://maxin-cn.github.io/publication/preprint/miramo/</guid>
-      <description>&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- 
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-&lt;!-- Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
 </description>
     </item>
     
