@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog | Xin Ma</title>
+    <title>Recent News | Xin Ma</title>
     <link>https://maxin-cn.github.io/post/</link>
       <atom:link href="https://maxin-cn.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Blog</description>
+    <description>Recent News</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 08 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://maxin-cn.github.io/media/icon_hu_c4bc227dd6af7f1a.png</url>
-      <title>Blog</title>
+      <title>Recent News</title>
       <link>https://maxin-cn.github.io/post/</link>
     </image>
     
@@ -273,7 +273,11 @@ bash pipelines/animation.sh
   &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
   &lt;nav id=&#34;TableOfContents&#34;&gt;
   &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#inference&#34;&gt;Inference&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#inference&#34;&gt;Inference&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
   &lt;/ul&gt;
 &lt;/nav&gt;
 &lt;/details&gt;
